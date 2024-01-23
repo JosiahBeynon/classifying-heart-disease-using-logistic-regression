@@ -1,1 +1,3 @@
-A small data science project using logistic regression to detect heart disease based on patient data.
+# Classifying Heart Disease Using Logistic Regression
+
+Using logistic regression to detect which patients may suffer from heart disease based on bulk patient data.
